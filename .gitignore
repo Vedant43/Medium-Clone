@@ -1,0 +1,14 @@
+node_modules
+dist
+testing
+.wrangler
+.dev.vars
+.env
+# Change them to your taste:
+tsconfig.json
+wrangler.toml
+tailwind.config.json
+tailwind.config.js
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
